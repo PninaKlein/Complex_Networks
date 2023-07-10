@@ -1,0 +1,225 @@
+Country_Name;Country_Code;Latitude;Longitude
+Aruba;ABW;12.52;-69.98
+Afghanistan;AFG;33.77;66.24
+Angola;AGO;-11.88;17.57
+Anguilla;AIA;18.2;-63.08
+Albania;ALB;41.0;20.0
+Andorra;AND;42.54;1.57
+United Arab Emirates;ARE;24.0;54.0
+Argentina;ARG;-35.0;-64.97
+Armenia;ARM;40.77;44.67
+American Samoa;ASM;-14.3;-170.71
+Antarctica;ATA;-79.41;0.31
+French Southern Territories;ATF;-49.24;69.62
+Antigua and Barbuda;ATG;17.22;-61.96
+Australia;AUS;-24.78;134.76
+Austria;AUT;47.59;14.12
+Azerbaijan;AZE;40.39;47.79
+Burundi;BDI;-3.43;29.93
+Belgium;BEL;50.64;4.67
+Benin;BEN;9.53;2.26
+Burkina Faso;BFA;12.08;-1.69
+Bangladesh;BGD;24.48;90.29
+Bulgaria;BGR;42.61;25.49
+Bahrain;BHR;26.16;50.53
+Bahamas;BHS;24.77;-78.0
+Bosnia and Herzegovina;BIH;44.31;17.6
+Saint Barthélemy;BLM;17.9;-62.81
+Belarus;BLR;53.43;27.7
+Belize;BLZ;16.83;-88.76
+Bermuda;BMU;32.3;-64.76
+Bolivia;BOL;-17.06;-64.99
+Brazil;BRA;-10.33;-53.2
+Barbados;BRB;13.15;-59.53
+Brunei Darussalam;BRN;4.41;114.57
+Bhutan;BTN;27.55;90.51
+Bouvet Island;BVT;-54.42;3.36
+Botswana;BWA;-23.17;24.59
+Central African Republic;CAF;7.03;20.0
+Canada;CAN;61.07;-107.99
+Cocos (Keeling) Islands;CCK;-12.07;96.84
+Switzerland;CHE;46.8;8.23
+Chile;CHL;-31.76;-71.32
+China;CHN;35.0;105.0
+Côte d'Ivoire;CIV;7.99;-5.57
+Cameroon;CMR;4.61;13.15
+Congo;COG;-2.98;23.82
+Cook Islands;COK;-20.0;-157.79
+Colombia;COL;4.1;-72.91
+Comoros;COM;-12.2;44.28
+Cabo Verde;CPV;16.0;-24.01
+Costa Rica;CRI;10.27;-84.07
+Cuba;CUB;23.01;-80.83
+Curaçao;CUW;12.21;-69.04
+Christmas Island;CXR;-10.49;105.62
+Cayman Islands;CYM;19.7;-79.92
+Cyprus;CYP;34.98;33.15
+Czechia;CZE;49.74;15.34
+Germany;DEU;51.16;10.45
+Djibouti;DJI;11.81;42.85
+Dominica;DMA;19.1;-70.3
+Denmark;DNK;55.67;10.33
+Dominican Republic;DOM;19.1;-70.3
+Algeria;DZA;28.0;3.0
+Ecuador;ECU;-1.34;-79.37
+Egypt;EGY;26.25;29.27
+Eritrea;ERI;15.95;38.0
+Western Sahara;ESH;24.18;-13.77
+Spain;ESP;39.33;-4.84
+Estonia;EST;58.75;25.33
+Ethiopia;ETH;10.21;38.65
+Finland;FIN;63.25;25.92
+Fiji;FJI;-18.12;179.01
+Falkland Islands (Malvinas);FLK;-51.95;-59.54
+France;FRA;46.6;1.89
+Faroe Islands;FRO;62.04;-7.03
+Micronesia;FSM;8.61;151.83
+Gabon;GAB;-0.9;11.69
+United Kingdom;GBR;54.7;-3.28
+Georgia;GEO;32.33;-83.11
+Ghana;GHA;8.03;-1.08
+Gibraltar;GIB;36.13;-5.35
+Guinea;GIN;10.72;-10.71
+Gambia;GMB;13.47;-15.49
+Guinea-Bissau;GNB;11.82;-15.24
+Equatorial Guinea;GNQ;1.61;10.52
+Greece;GRC;39.0;21.99
+Grenada;GRD;12.14;-61.69
+Greenland;GRL;77.62;-42.81
+Guatemala;GTM;15.59;-90.35
+Guam;GUM;13.45;144.76
+Guyana;GUY;4.84;-58.64
+Hong Kong;HKG;22.28;114.16
+Heard Island and McDonald Islands;HMD;-53.02;72.96
+Honduras;HND;15.26;-86.08
+Croatia;HRV;45.37;15.66
+Haiti;HTI;19.14;-72.36
+Hungary;HUN;47.18;19.51
+Indonesia;IDN;-2.48;117.89
+India;IND;22.35;78.67
+British Indian Ocean Territory;IOT;-5.35;71.86
+Ireland;IRL;52.87;-7.98
+Iran;IRN;32.65;54.56
+Iraq;IRQ;33.1;44.17
+Iceland;ISL;64.98;-18.11
+Israel;ISR;30.81;34.86
+Italy;ITA;42.64;12.67
+Jamaica;JAM;18.19;-77.39
+Jordan;JOR;31.17;36.94
+Japan;JPN;36.57;139.24
+Kazakhstan;KAZ;48.1;66.78
+Kenya;KEN;1.44;38.43
+Kyrgyzstan;KGZ;41.51;74.72
+Cambodia;KHM;12.54;104.81
+Kiribati;KIR;0.34;173.66
+Saint Kitts and Nevis;KNA;17.25;-62.67
+Korea;KOR;55.82;49.13
+Kuwait;KWT;29.27;47.5
+Lao People's Democratic Republic;LAO;20.02;103.38
+Lebanon;LBN;33.88;35.84
+Liberia;LBR;5.75;-9.37
+Libya;LBY;26.82;18.12
+Saint Lucia;LCA;13.83;-60.98
+Sri Lanka;LKA;7.88;80.66
+Lesotho;LSO;-29.6;28.34
+Lithuania;LTU;55.35;23.75
+Luxembourg;LUX;49.82;6.13
+Latvia;LVA;56.84;24.75
+Macao;MAC;22.19;113.54
+Morocco;MAR;31.17;-7.34
+Moldova;MDA;46.81;29.65
+Madagascar;MDG;-18.92;46.44
+Maldives;MDV;3.72;73.22
+Mexico;MEX;23.66;-102.01
+Marshall Islands;MHL;9.0;168.0
+North Macedonia;MKD;41.62;21.72
+Mali;MLI;16.37;-2.29
+Malta;MLT;35.89;14.45
+Myanmar;MMR;17.18;96.0
+Mongolia;MNG;46.83;103.85
+Northern Mariana Islands;MNP;15.18;145.74
+Mozambique;MOZ;-19.3;34.91
+Mauritania;MRT;20.25;-9.24
+Montserrat;MSR;16.74;-62.19
+Mauritius;MUS;-20.28;57.57
+Malawi;MWI;-13.27;33.93
+Malaysia;MYS;4.57;102.27
+Namibia;NAM;-23.23;17.32
+New Caledonia;NCL;-21.3;165.49
+Niger;NER;17.74;9.32
+Norfolk Island;NFK;-29.03;167.95
+Nigeria;NGA;9.6;8.0
+Nicaragua;NIC;12.61;-85.29
+Niue;NIU;-19.05;-169.86
+Netherlands;NLD;52.24;5.63
+Norway;NOR;61.15;8.79
+Nepal;NPL;28.11;84.09
+Nauru;NRU;-0.53;166.93
+New Zealand;NZL;-41.5;172.83
+Oman;OMN;21.0;57.0
+Pakistan;PAK;30.33;71.25
+Panama;PAN;8.56;-81.13
+Pitcairn;PCN;-25.07;-130.1
+Peru;PER;-6.87;-75.05
+Philippines;PHL;12.75;122.73
+Palau;PLW;5.38;132.91
+Papua New Guinea;PNG;-5.68;144.25
+Poland;POL;52.22;19.13
+Korea;PRK;38.23;127.01
+Portugal;PRT;39.66;-8.14
+Paraguay;PRY;-23.32;-58.17
+French Polynesia;PYF;-17.02;-144.64
+Qatar;QAT;25.33;51.23
+Russian Federation;RUS;64.69;97.75
+Rwanda;RWA;-1.96;30.06
+Saudi Arabia;SAU;25.62;42.35
+Sudan;SDN;14.58;29.49
+Senegal;SEN;14.48;-14.45
+Singapore;SGP;1.36;103.82
+South Georgia and the South Sandwich Islands;SGS;-54.84;-35.81
+Saint Helena;SHN;-15.97;-5.71
+Solomon Islands;SLB;-8.71;159.11
+Sierra Leone;SLE;8.64;-11.84
+El Salvador;SLV;13.8;-88.91
+San Marino;SMR;43.95;12.46
+Somalia;SOM;8.37;49.08
+Saint Pierre and Miquelon;SPM;46.78;-56.2
+South Sudan;SSD;7.87;29.67
+Sao Tome and Principe;STP;0.97;7.02
+Suriname;SUR;4.14;-56.08
+Slovakia;SVK;48.74;19.45
+Slovenia;SVN;46.12;14.82
+Sweden;SWE;59.67;14.52
+Eswatini;SWZ;-26.56;31.4
+Sint Maarten (Dutch part);SXM;18.02;-63.05
+Seychelles;SYC;-4.66;55.45
+Syrian Arab Republic;SYR;34.64;39.05
+Turks and Caicos Islands;TCA;21.72;-71.55
+Chad;TCD;15.61;19.02
+Togo;TGO;8.78;1.02
+Thailand;THA;14.9;100.83
+Tajikistan;TJK;38.63;70.82
+Tokelau;TKL;-9.17;-171.82
+Turkmenistan;TKM;39.38;59.39
+Tonga;TON;-19.92;-175.2
+Trinidad and Tobago;TTO;10.75;-61.08
+Tunisia;TUN;33.84;9.4
+Turkey;TUR;38.96;34.92
+Tuvalu;TUV;-8.64;179.16
+Tanzania;TZA;-6.52;35.79
+Uganda;UGA;1.53;32.22
+Ukraine;UKR;49.49;31.27
+United States Minor Outlying Islands;UMI;16.73;-169.53
+Uruguay;URY;-32.88;-56.02
+United States;USA;39.78;-100.45
+Uzbekistan;UZB;41.32;63.95
+Saint Vincent and the Grenadines;VCT;12.9;-61.28
+Venezuela;VEN;8.0;-66.11
+Viet Nam;VNM;15.93;107.97
+Vanuatu;VUT;-16.53;168.11
+Wallis and Futuna;WLF;-13.29;-176.2
+Samoa;WSM;-13.77;-172.12
+Yemen;YEM;16.35;47.89
+South Africa;ZAF;-28.82;24.99
+Zambia;ZMB;-14.52;27.56
+Zimbabwe;ZWE;-18.46;29.75
